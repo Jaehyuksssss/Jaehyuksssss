@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jaehyuksssss
-- 👀 I’m interested in Frontend, html, css, javascript,TypeScript, React 
-- 🌱 I’m currently learning React,TypeScript
+- <h1>👋 Hi, I’m @Jaehyuksssss<h1/>
+- <h3>👀 I’m interested in Frontend, html, css, javascript,TypeScript, React <h3/>
+- <h3>🌱 I’m currently learning React,TypeScript <h3/>
 
 <!---
 Jaehyuksssss/Jaehyuksssss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
