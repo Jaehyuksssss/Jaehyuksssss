@@ -1,4 +1,3 @@
-Jaehyuksssss /README.md
 👋 Hi, I’m Jaehyuk Lim
 
 👋 I'm use javascript, TypeScript, React, Next.js , StyleComponent
