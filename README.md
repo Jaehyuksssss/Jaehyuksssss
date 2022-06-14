@@ -2,7 +2,7 @@
 
 👋 I'm use javascript, TypeScript, React, Next.js , StyleComponent
 
-👀 I’m interested React,Next.js
+👀 I’m interested in React,Next.js
 
 🌱 I’m currently learning React,TypeScript
 
