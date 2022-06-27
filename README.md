@@ -1,6 +1,6 @@
 👋 Hi, I’m Jaehyuk Lim
 
-👋 I'm use javascript, TypeScript, React, Next.js , StyleComponent
+👋 I'm use javascript, TypeScript, React, Next.js , StyledComponent
 
 👀 I’m interested in React,Next.js
 
