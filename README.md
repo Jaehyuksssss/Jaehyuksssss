@@ -24,8 +24,8 @@
 
 📫 email : ljh9531009@gmail.com
 
-📫 blog : https://jaehyuksss.tistory.com/ 
-          https://jaehyuksssss.github.io/
+📫 blog : - https://jaehyuksss.tistory.com/ 
+          - https://jaehyuksssss.github.io/
 
 <!---
 Jaehyuksssss/Jaehyuksssss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
