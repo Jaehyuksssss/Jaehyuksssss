@@ -20,7 +20,7 @@
 <br/>
 👀 I’m interested in React,Next.js webpack ,SWR ,@emotion
 
-🌱 I’m currently learning React,TypeScript,node.js
+🌱 I’m currently learning Next.js,TypeScript,node.js Recoil
 
 📫 email : ljh9531009@gmail.com
 
