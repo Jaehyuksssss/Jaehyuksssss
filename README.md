@@ -3,7 +3,7 @@
 
 📫 email : ljh9531009@gmail.com
 
-📫 blog : - https://jaehyuksssss.github.io/blog
+📫 blog : - https://jaehyuksssss.github.io/
 
 <br/>
 <!---
